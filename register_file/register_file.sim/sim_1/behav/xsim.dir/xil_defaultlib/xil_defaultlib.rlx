@@ -1,0 +1,10 @@
+0.6
+2016.4
+Jan 23 2017
+19:19:20
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.srcs/sources_1/new/Mux.v,1491181787,verilog,,,,Mux,,,,,,,,
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.srcs/sources_1/new/RegFile_TestBench.v,1491181475,verilog,,,,RegFile_TestBench,,,,,,,,
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.srcs/sources_1/new/Reg_File.v,1491180693,verilog,,,,reg_file,,,,,,,,
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.srcs/sources_1/new/decodificador.v,1491174326,verilog,,,,decodificador,,,,,,,,
+/home/diego/Desktop/SemArq/211573851_P7/register_file/register_file.srcs/sources_1/new/flipFlopD8.v,1491179649,verilog,,,,flipFlopD8,,,,,,,,
